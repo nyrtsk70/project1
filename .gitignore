@@ -1,0 +1,8 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/project_2/x64/Debug
+/project_2/packages/Microsoft.Windows.CppWinRT.2.0.220531.1/bin
+/project_2/.vs/project_2
+/project_2/packages/Microsoft.Windows.CppWinRT.2.0.220531.1
